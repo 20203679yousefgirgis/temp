@@ -1,0 +1,13 @@
+// const names = require('./4-names')
+// const sayHi = require('./5-func')
+// const data = require('./6-alternative-flavor')
+// require('./7-mind-grenade')
+// console.log(names)
+// console.log(sayHi)
+// sayHi('mina')
+// sayHi(names.yousef)
+// sayHi(names.girgis)
+// console.log(data.singlePerson.name)
+// console.log(data.items)
+// console.log(module)
+
